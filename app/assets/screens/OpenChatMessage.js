@@ -2,6 +2,7 @@ import React from 'react';
 import {View, Text, StyleSheet} from 'react-native';
 
 function OpenChatMessage({item}) {
+   console.log(item)
     return (
         <View style={styles.messages}>
            <View style={item.isUser ? styles.fromUser : styles.fromChat}>

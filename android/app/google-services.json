@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983659102155",
+    "project_id": "hocchatr00m",
+    "storage_bucket": "hocchatr00m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983659102155:android:e444ce3dbc821269cb004e",
+        "android_client_info": {
+          "package_name": "com.hocchatr00m"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983659102155-ghm9t73j261jma993gi8on59fuknj2t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhYnKV38UV-VfP7wjaTYbmfgqsxM9GCYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983659102155-ghm9t73j261jma993gi8on59fuknj2t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
